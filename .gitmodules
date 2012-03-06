@@ -13,3 +13,105 @@
 [submodule "fluent-plugin-msgpack-rpc"]
 	path = fluent-plugin-msgpack-rpc
 	url = git@github.com:fluent/fluent-plugin-msgpack-rpc.git
+[submodule "fluent-plugin-redis"]
+	path = fluent-plugin-redis
+	url = https://github.com/yuki24/fluent-plugin-redis.git
+[submodule "fluent-plugin-couch"]
+	path = fluent-plugin-couch
+	url = https://github.com/ixixi/fluent-plugin-couch.git
+[submodule "fluent-plugin-zmq"]
+	path = fluent-plugin-zmq
+	url = https://github.com/oza/fluent-plugin-zmq.git
+[submodule "fluent-plugin-cassandra"]
+	path = fluent-plugin-cassandra
+	url = https://github.com/tomitakazutaka/fluent-plugin-cassandra.git
+[submodule "fluent-plugin-stat"]
+	path = fluent-plugin-stat
+	url = https://github.com/shun0102/fluent-plugin-stat.git
+[submodule "fluent-plugin-asyncinvoker"]
+	path = fluent-plugin-asyncinvoker
+	url = https://github.com/bibrost/fluent-plugin-asyncinvoker.git
+[submodule "fluent-plugin-splunk"]
+	path = fluent-plugin-splunk
+	url = https://github.com/parolkar/fluent-plugin-splunk.git
+[submodule "fluent-plugin-growl"]
+	path = fluent-plugin-growl
+	url = https://github.com/takei-yuya/fluent-plugin-growl.git
+[submodule "fluent-plugin-aggregate-filter"]
+	path = fluent-plugin-aggregate-filter
+	url = https://github.com/riywo/fluent-plugin-aggregate-filter.git
+[submodule "fluent-plugin-resque"]
+	path = fluent-plugin-resque
+	url = https://github.com/hotchpotch/fluent-plugin-resque.git
+[submodule "fluent-plugin-td"]
+	path = fluent-plugin-td
+    url = https://frsyuki@github.com/treasure-data/fluent-plugin-td.git
+[submodule "fluent-plugin-delayed"]
+	path = fluent-plugin-delayed
+	url = https://github.com/chobie/fluent-plugin-delayed.git
+[submodule "fluent-plugin-mysqlslowquery"]
+	path = fluent-plugin-mysqlslowquery
+	url = https://github.com/taka84u9/fluent-plugin-mysqlslowquery.git
+[submodule "fluent-plugin-sampling-filter"]
+	path = fluent-plugin-sampling-filter
+	url = https://github.com/tagomoris/fluent-plugin-sampling-filter.git
+[submodule "fluent-plugin-irc"]
+	path = fluent-plugin-irc
+	url = https://github.com/choplin/fluent-plugin-irc.git
+[submodule "fluent-plugin-growthforecast"]
+	path = fluent-plugin-growthforecast
+	url = https://github.com/tagomoris/fluent-plugin-growthforecast.git
+[submodule "fluent-plugin-http-enhanced"]
+	path = fluent-plugin-http-enhanced
+	url = https://github.com/parolkar/fluent-plugin-http-enhanced.git
+[submodule "fluent-plugin-ikachan"]
+	path = fluent-plugin-ikachan
+	url = https://github.com/tagomoris/fluent-plugin-ikachan.git
+[submodule "fluent-plugin-rexster"]
+	path = fluent-plugin-rexster
+	url = https://github.com/bibrost/fluent-plugin-rexster.git
+[submodule "fluent-plugin-amqp"]
+	path = fluent-plugin-amqp
+	url = https://github.com/konn/fluent-plugin-amqp.git
+[submodule "fluent-plugin-solr"]
+	path = fluent-plugin-solr
+	url = https://github.com/btigit/fluent-plugin-solr.git
+[submodule "fluent-plugin-test-counter"]
+	path = fluent-plugin-test-counter
+	url = https://github.com/tagomoris/fluent-plugin-test-counter.git
+[submodule "fluent-plugin-reducer"]
+	path = fluent-plugin-reducer
+	url = https://github.com/tagomoris/fluent-plugin-reducer.git
+[submodule "fluent-plugin-notifier"]
+	path = fluent-plugin-notifier
+	url = https://github.com/tagomoris/fluent-plugin-notifier.git
+[submodule "fluent-plugin-dstat"]
+	path = fluent-plugin-dstat
+	url = https://github.com/shun0102/fluent-plugin-dstat.git
+[submodule "fluent-plugin-sqs"]
+	path = fluent-plugin-sqs
+	url = https://github.com/ixixi/fluent-plugin-sqs.git
+[submodule "fluent-plugin-sns"]
+	path = fluent-plugin-sns
+	url = https://github.com/ixixi/fluent-plugin-sns.git
+[submodule "fluent-plugin-say"]
+	path = fluent-plugin-say
+	url = https://github.com/makimoto/fluent-plugin-say.git
+[submodule "fluent-plugin-kestrel"]
+	path = fluent-plugin-kestrel
+	url = https://github.com/tjun/fluent-plugin-kestrel.git
+[submodule "fluent-plugin-flowcounter"]
+	path = fluent-plugin-flowcounter
+	url = https://github.com/tagomoris/fluent-plugin-flowcounter.git
+[submodule "fluent-plugin-datacounter"]
+	path = fluent-plugin-datacounter
+	url = https://github.com/tagomoris/fluent-plugin-datacounter.git
+[submodule "fluent-plugin-postgresql"]
+	path = fluent-plugin-postgresql
+	url = https://github.com/choplin/fluent-plugin-postgresql.git
+[submodule "fluent-plugin-librato-metrics"]
+	path = fluent-plugin-librato-metrics
+	url = https://github.com/treasure-data/fluent-plugin-librato-metrics.git
+[submodule "fluent-plugin-serialport"]
+	path = fluent-plugin-serialport
+	url = https://github.com/katsyoshi/fluent-plugin-serialport.git
