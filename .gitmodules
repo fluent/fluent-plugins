@@ -4,3 +4,6 @@
 [submodule "fluent-plugin-s3"]
 	path = fluent-plugin-s3
 	url = git@github.com:fluent/fluent-plugin-s3.git
+[submodule "fluent-plugin-scribe"]
+	path = fluent-plugin-scribe
+	url = git@github.com:fluent/fluent-plugin-scribe.git
