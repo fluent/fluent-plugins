@@ -10,3 +10,6 @@
 [submodule "fluent-plugin-hoop"]
 	path = fluent-plugin-hoop
 	url = git@github.com:fluent/fluent-plugin-hoop.git
+[submodule "fluent-plugin-msgpack-rpc"]
+	path = fluent-plugin-msgpack-rpc
+	url = git@github.com:fluent/fluent-plugin-msgpack-rpc.git
