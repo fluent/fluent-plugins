@@ -1,18 +1,18 @@
 [submodule "fluent-plugin-mongo"]
 	path = fluent-plugin-mongo
-	url = git@github.com:fluent/fluent-plugin-mongo.git
+	url = https://github.com/fluent/fluent-plugin-mongo.git
 [submodule "fluent-plugin-s3"]
 	path = fluent-plugin-s3
-	url = git@github.com:fluent/fluent-plugin-s3.git
+	url = https://github.com/fluent/fluent-plugin-s3.git
 [submodule "fluent-plugin-scribe"]
 	path = fluent-plugin-scribe
-	url = git@github.com:fluent/fluent-plugin-scribe.git
+	url = https://github.com/fluent/fluent-plugin-scribe.git
 [submodule "fluent-plugin-hoop"]
 	path = fluent-plugin-hoop
-	url = git@github.com:fluent/fluent-plugin-hoop.git
+	url = https://github.com/fluent/fluent-plugin-hoop.git
 [submodule "fluent-plugin-msgpack-rpc"]
 	path = fluent-plugin-msgpack-rpc
-	url = git@github.com:fluent/fluent-plugin-msgpack-rpc.git
+	url = https://github.com/fluent/fluent-plugin-msgpack-rpc.git
 [submodule "fluent-plugin-redis"]
 	path = fluent-plugin-redis
 	url = https://github.com/yuki24/fluent-plugin-redis.git
@@ -45,7 +45,7 @@
 	url = https://github.com/hotchpotch/fluent-plugin-resque.git
 [submodule "fluent-plugin-td"]
 	path = fluent-plugin-td
-    url = https://frsyuki@github.com/treasure-data/fluent-plugin-td.git
+    url = https://github.com/treasure-data/fluent-plugin-td.git
 [submodule "fluent-plugin-delayed"]
 	path = fluent-plugin-delayed
 	url = https://github.com/chobie/fluent-plugin-delayed.git
