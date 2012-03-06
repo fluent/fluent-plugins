@@ -1,3 +1,6 @@
 [submodule "fluent-plugin-mongo"]
 	path = fluent-plugin-mongo
 	url = git@github.com:fluent/fluent-plugin-mongo.git
+[submodule "fluent-plugin-s3"]
+	path = fluent-plugin-s3
+	url = git@github.com:fluent/fluent-plugin-s3.git
